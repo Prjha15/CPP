@@ -10,6 +10,6 @@ int main(){
     cout<<"ENTER THE NATURAL NUMBER";
     cin>>a;
     result=sum(a);
-    cout<<"Addition of provided natural numbers are "<<result;
+    cout<<"Addition of provided natural number is "<<result;
     return 0;
 }
